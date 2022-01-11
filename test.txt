@@ -3,11 +3,4 @@ test
 2
 3
 4
-<<<<<<< HEAD
-<<<<<<< HEAD
 5
-=======
->>>>>>> 2364a49... # branch commit 3
-=======
-5
->>>>>>> eb05e1c... # branch commit 5
